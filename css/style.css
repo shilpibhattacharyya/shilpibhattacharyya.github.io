@@ -5,16 +5,13 @@ html, body {
   height: 100%;
   margin: 0px;
   padding: 0px;
-  
   font-family: 'Open Sans', sans-serif;
-}
-
-.name {
-  font-family: 'Roboto', sans-serif;
-  margin-bottom: 2px;
 }
 .body {
   background: linear-gradient(to bottom, rgba(231, 240, 245, 1) 0%, rgba(170, 221, 235, 1) 100%);
 }
-
+.name {
+  font-family: 'Roboto', sans-serif;
+  margin-bottom: 2px;
+}
 .profile-picture {
