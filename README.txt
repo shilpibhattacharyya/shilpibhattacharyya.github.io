@@ -2,7 +2,7 @@
   <div class="wrapper">
     
     <div class="left">
-      <img class="profile-picture" src="img/profile.jpg" width="200"/>
+      <img class="profile-picture" src="images/profile_web.jpeg" width="200"/>
       <h1 class="name">Shilpi Bhattacharyya</h1>
       <h4 class="subtitle">Product Management Leader</h4>
     </div>
